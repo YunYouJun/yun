@@ -39,6 +39,7 @@
 命名规则：`yun-表情包动作说明`，透明背景：`yun-alpha-表情包动作说明`
 
 如带有 alpha 通道（透明背景），请提交 PNG 格式。
+PNG 可使用 [tinypng](https://tinypng.com/) 压缩。
 JPG 格式建议使用 [Squoosh](https://squoosh.app/) 压缩后提交。
 
 如希望对表情包附加说明和作者信息，可在 [`images/meme/README.md`](./images/meme/README.md) 中添加描述。
