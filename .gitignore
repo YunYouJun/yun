@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+tmp
+temp/
+
+# lock
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+pnpm-global/
+
+# dev
+node_modules/
+*.log
