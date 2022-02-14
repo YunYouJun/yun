@@ -10,9 +10,7 @@
 
 > 还有什么其他需要补充的，可以去 [Discussions](https://github.com/YunYouJun/yun/discussions) 提醒我更新。
 
-## 🎉 限时活动！
-
-- [小云微信红包封面抽奖！（2022-01-29 截止）](./activities/README.md)
+- [小云的偶像之路｜语雀知识库](https://www.yuque.com/yunyoujun/vtb)
 
 ## 人物设定
 
@@ -21,7 +19,6 @@
 ## 图片说明
 
 - `images`: 图片相关内容
-
   - `meme`: 表情包文件夹
 
 ### 图片链接
@@ -49,9 +46,9 @@
 
 简而言之，在非商业使用与署名（发布时注明原设出处即可）的前提下，您可以任意对其进行修改（包括但不限于 P 图、二次创作）、印刷、分发等。
 
-**如果你觉得你制作的小云表情包很可爱，就来给本仓库创建 [PR](https://github.com/YunYouJun/yun/pulls) 吧！**
+**如果你觉得你制作的小云表情包很可爱，就来给本仓库创建 [PR](https://github.com/YunYouJun/yun/pulls) 吧！**（等之后如果印钥匙扣、贴纸什么的时候会免费赠送一份！）
 
-> 等之后如果印钥匙扣、贴纸什么的时候会免费赠送一份！
+> 原创类型图片可参考[提交说明](#提交说明)，P 图等（接头行为）可在这里投稿：[小云之接头霸王](https://www.yuque.com/yunyoujun/vtb/meme)。
 
 ## 提交说明
 
