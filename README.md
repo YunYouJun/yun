@@ -11,6 +11,7 @@
 > 还有什么其他需要补充的，可以去 [Discussions](https://github.com/YunYouJun/yun/discussions) 提醒我更新。
 
 - [小云的偶像之路｜语雀知识库](https://www.yuque.com/yunyoujun/vtb)
+- TG 贴纸包：[小云包](https://t.me/addstickers/xiao_yun)
 
 ## 人物设定
 
@@ -31,17 +32,6 @@
 
 遵循 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议。
 
-您可以自由地：
-
-- 共享 — 在任何媒介以任何形式复制、发行本作品
-- 演绎 — 修改、转换或以本作品为基础进行创作
-
-您需遵守以下条件：
-
-- 署名 — 您必须给出适当的署名，提供指向本许可协议的链接，同时标明是否（对原始作品）作了修改。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。
-- 非商业性使用 — 您不得将本作品用于商业目的。
-- 相同方式共享 — 如果您再混合、转换或者基于本作品进行创作，您必须基于与原先许可协议相同的许可协议分发您贡献的作品。
-
 ---
 
 简而言之，在非商业使用与署名（发布时注明原设出处即可）的前提下，您可以任意对其进行修改（包括但不限于 P 图、二次创作）、印刷、分发等。
@@ -52,19 +42,7 @@
 
 ## 提交说明
 
-命名规则：`yun-表情包动作说明`，透明背景：`yun-alpha-表情包动作说明`
-
-如带有 alpha 通道（透明背景），请提交 PNG 格式。
-普通预览图，请提交 JPG 格式。并在保证清晰度的同时，对其进行压缩。
-
-<img src='./images/meme/yun-good-with-text.jpg' alt='Yun Good' width='200' title="小云觉得你很棒棒" align="right" />
-
-> （如果您愿意，您还可以提交 PSD 等源文件的云盘链接。）
-
-- PNG 建议使用 [tinypng](https://tinypng.com/) 压缩。
-- JPG 建议使用 [Squoosh](https://squoosh.app/) 压缩。
-
-如希望对表情包附加说明和作者信息，可在 [`images/meme/README.md`](./images/meme/README.md) 中添加描述。
+如果你有兴趣提交小云二创，可以看[这里](./images/README.md)！
 
 ## 最后
 
