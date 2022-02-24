@@ -40,11 +40,11 @@
 
 **如果你觉得你制作的小云表情包很可爱，就来给本仓库创建 [PR](https://github.com/YunYouJun/yun/pulls) 吧！**（等之后如果印钥匙扣、贴纸什么的时候会免费赠送一份！）
 
-> 原创类型图片可参考[提交说明](#提交说明)，P 图等（接头行为）可在这里投稿：[小云之接头霸王](https://www.yuque.com/yunyoujun/vtb/meme)。
-
 ## 提交说明
 
 如果你有兴趣提交小云二创，可以看[这里](./images/README.md)！
+
+> 原创类型图片可参考[提交说明](#提交说明)，P 图等（接头行为）可在这里投稿：[小云之接头霸王](https://www.yuque.com/yunyoujun/vtb/meme)。
 
 ## 最后
 
