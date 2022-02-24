@@ -1,12 +1,14 @@
 <p align='center'>
-  <img src='./images/meme/yun-good-alpha.png' alt='Yun Good' width='200'/>
+<img src='./images/meme/yun-good-alpha.png' alt='Yun Good' width='200'/>
 </p>
 
 <p align='center'>
 <a href="./set.md">☁️ 小云设定集大公开！</a>
 </p>
 
-![xiao-yun](images/yun-alpha.png)
+<p align='center'>
+<img src='./images/yun-alpha.png' alt='xiao-yun' width='350'/>
+</p>
 
 > 还有什么其他需要补充的，可以去 [Discussions](https://github.com/YunYouJun/yun/discussions) 提醒我更新。
 
