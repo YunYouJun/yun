@@ -17,6 +17,8 @@
 
 ## 人物设定
 
+> 小云人设画师：[Ai_Floverse](https://twitter.com/Ai_Floverse)
+
 见 [./set.md](./set.md)。
 
 ## 图片说明
