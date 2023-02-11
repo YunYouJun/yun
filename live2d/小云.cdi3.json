@@ -232,6 +232,11 @@
 			"Name": "小电视表情9"
 		},
 		{
+			"Id": "Param63",
+			"GroupId": "ParamGroup7",
+			"Name": "小电视表情复原"
+		},
+		{
 			"Id": "Param10",
 			"GroupId": "ParamGroup8",
 			"Name": "物理中1"

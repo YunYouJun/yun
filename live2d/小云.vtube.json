@@ -11,25 +11,25 @@
     "ModelSaveMetadata": {
         "LastSavedVTubeStudioVersion": "1.23.5",
         "LastSavedPlatform": "Steam",
-        "LastSavedDateUTC": "Sunday, 08 January 2023, 17:25:40",
-        "LastSavedDateLocalTime": "Monday, 09 January 2023, 01:25:40",
-        "LastSavedDateUnixMillisecondTimestamp": "1673198740661"
+        "LastSavedDateUTC": "Saturday, 11 February 2023, 16:36:50",
+        "LastSavedDateLocalTime": "Sunday, 12 February 2023, 00:36:50",
+        "LastSavedDateUnixMillisecondTimestamp": "1676133410428"
     },
     "SavedModelPosition": {
         "Position": {
-            "x": -0.6966612339019775,
-            "y": -2.6260194778442385,
+            "x": -8.016999244689942,
+            "y": -70.33096313476563,
             "z": 0.0
         },
         "Rotation": {
             "x": 0.0,
             "y": 0.0,
-            "z": 3.594770703330141e-8,
+            "z": 2.092735407188684e-8,
             "w": 1.0
         },
         "Scale": {
-            "x": 0.6346362829208374,
-            "y": 0.6346362829208374,
+            "x": 1.247528314590454,
+            "y": 1.247528314590454,
             "z": 1.0
         }
     },
@@ -375,10 +375,10 @@
     ],
     "Hotkeys": [
         {
-            "HotkeyID": "f671c6ca6abc4893ba53cf47ef2d4fb1",
-            "Name": "",
+            "HotkeyID": "8a2dea6f8edb4fd78a103b512dac3323",
+            "Name": "眯眯眼",
             "Action": "ToggleExpression",
-            "File": "expression1.exp3.json",
+            "File": "眯眯眼.exp3.json",
             "Folder": "",
             "Position": {
                 "X": 0.0,
@@ -429,7 +429,7 @@
             },
             "IsGlobal": true,
             "IsActive": true,
-            "Minimized": false,
+            "Minimized": true,
             "StopsOnLastFrame": false,
             "DeactivateAfterKeyUp": false,
             "OnlyLoadOneRandomItem": false,
@@ -444,11 +444,11 @@
             }
         },
         {
-            "HotkeyID": "5f1cf946703149ebbd84341c7ed66ab4",
-            "Name": "",
+            "HotkeyID": "f3629f8d90a24a1fbc873ae55f275b12",
+            "Name": "嘴巴1",
             "Action": "ToggleExpression",
-            "File": "expression2.exp3.json",
-            "Folder": "",
+            "File": "嘴巴1.exp3.json",
+            "Folder": "嘴巴",
             "Position": {
                 "X": 0.0,
                 "Y": 0.0,
@@ -498,7 +498,7 @@
             },
             "IsGlobal": true,
             "IsActive": true,
-            "Minimized": false,
+            "Minimized": true,
             "StopsOnLastFrame": false,
             "DeactivateAfterKeyUp": false,
             "OnlyLoadOneRandomItem": false,
@@ -513,11 +513,11 @@
             }
         },
         {
-            "HotkeyID": "96d1e412995f47fd8bba57b5036019c6",
-            "Name": "",
+            "HotkeyID": "e035b3e2c25449d7810f8ed5856c7abf",
+            "Name": "嘴巴2",
             "Action": "ToggleExpression",
-            "File": "expression3.exp3.json",
-            "Folder": "",
+            "File": "嘴巴2.exp3.json",
+            "Folder": "嘴巴",
             "Position": {
                 "X": 0.0,
                 "Y": 0.0,
@@ -567,7 +567,7 @@
             },
             "IsGlobal": true,
             "IsActive": true,
-            "Minimized": false,
+            "Minimized": true,
             "StopsOnLastFrame": false,
             "DeactivateAfterKeyUp": false,
             "OnlyLoadOneRandomItem": false,
@@ -582,10 +582,10 @@
             }
         },
         {
-            "HotkeyID": "75cac5b1ae3a4e068994ff4e65ff02dc",
-            "Name": "",
+            "HotkeyID": "6a3f4a16a056498c95d2201debb3f22d",
+            "Name": "红晕大",
             "Action": "ToggleExpression",
-            "File": "expression4.exp3.json",
+            "File": "红晕大.exp3.json",
             "Folder": "",
             "Position": {
                 "X": 0.0,
@@ -636,7 +636,7 @@
             },
             "IsGlobal": true,
             "IsActive": true,
-            "Minimized": false,
+            "Minimized": true,
             "StopsOnLastFrame": false,
             "DeactivateAfterKeyUp": false,
             "OnlyLoadOneRandomItem": false,
@@ -651,10 +651,10 @@
             }
         },
         {
-            "HotkeyID": "45574319277947a68c721ee6c163723e",
-            "Name": "",
+            "HotkeyID": "8c314720b70f4826933f8ea87ed38e8b",
+            "Name": "红晕小",
             "Action": "ToggleExpression",
-            "File": "expression5.exp3.json",
+            "File": "红晕小.exp3.json",
             "Folder": "",
             "Position": {
                 "X": 0.0,
@@ -705,7 +705,7 @@
             },
             "IsGlobal": true,
             "IsActive": true,
-            "Minimized": false,
+            "Minimized": true,
             "StopsOnLastFrame": false,
             "DeactivateAfterKeyUp": false,
             "OnlyLoadOneRandomItem": false,
@@ -720,10 +720,10 @@
             }
         },
         {
-            "HotkeyID": "494441a51a284fcea82823f179d32b1c",
-            "Name": "",
+            "HotkeyID": "220590922c8c45b7bdb1995e182c9cd8",
+            "Name": "点赞",
             "Action": "ToggleExpression",
-            "File": "expression6.exp3.json",
+            "File": "点赞.exp3.json",
             "Folder": "",
             "Position": {
                 "X": 0.0,
@@ -774,7 +774,7 @@
             },
             "IsGlobal": true,
             "IsActive": true,
-            "Minimized": false,
+            "Minimized": true,
             "StopsOnLastFrame": false,
             "DeactivateAfterKeyUp": false,
             "OnlyLoadOneRandomItem": false,
@@ -789,10 +789,10 @@
             }
         },
         {
-            "HotkeyID": "e63df3f2f92842258f20f445cf3df033",
-            "Name": "",
+            "HotkeyID": "39fa24f5b47e475ea4ebcc6cd9a5e77a",
+            "Name": "蓝色眼睛切换",
             "Action": "ToggleExpression",
-            "File": "expression7.exp3.json",
+            "File": "眼睛切换.exp3.json",
             "Folder": "",
             "Position": {
                 "X": 0.0,
@@ -843,7 +843,7 @@
             },
             "IsGlobal": true,
             "IsActive": true,
-            "Minimized": false,
+            "Minimized": true,
             "StopsOnLastFrame": false,
             "DeactivateAfterKeyUp": false,
             "OnlyLoadOneRandomItem": false,
@@ -858,10 +858,10 @@
             }
         },
         {
-            "HotkeyID": "1f486c1e1b8e43b99afb17f4901c361c",
+            "HotkeyID": "890256e971304b78913a9814ce7203d9",
             "Name": "",
             "Action": "ToggleExpression",
-            "File": "expression8.exp3.json",
+            "File": "头饰切换.exp3.json",
             "Folder": "",
             "Position": {
                 "X": 0.0,
@@ -912,7 +912,7 @@
             },
             "IsGlobal": true,
             "IsActive": true,
-            "Minimized": false,
+            "Minimized": true,
             "StopsOnLastFrame": false,
             "DeactivateAfterKeyUp": false,
             "OnlyLoadOneRandomItem": false,
@@ -927,11 +927,11 @@
             }
         },
         {
-            "HotkeyID": "022ed8e38b2c4eeda51276c0dc602e35",
-            "Name": "",
+            "HotkeyID": "b2daa9565a6f471cb5ab5ea0c2595f10",
+            "Name": "小电视眼睛1",
             "Action": "ToggleExpression",
-            "File": "expression11.exp3.json",
-            "Folder": "",
+            "File": "小电视表情1.exp3.json",
+            "Folder": "小电视眼睛",
             "Position": {
                 "X": 0.0,
                 "Y": 0.0,
@@ -981,7 +981,7 @@
             },
             "IsGlobal": true,
             "IsActive": true,
-            "Minimized": false,
+            "Minimized": true,
             "StopsOnLastFrame": false,
             "DeactivateAfterKeyUp": false,
             "OnlyLoadOneRandomItem": false,
@@ -996,11 +996,11 @@
             }
         },
         {
-            "HotkeyID": "49b302c50f4c4de1b8f6143d032d6534",
-            "Name": "",
+            "HotkeyID": "7b6630ee64914e58829ad52d75c78bfa",
+            "Name": "小电视眼睛2",
             "Action": "ToggleExpression",
-            "File": "expression12.exp3.json",
-            "Folder": "",
+            "File": "小电视表情2.exp3.json",
+            "Folder": "小电视眼睛",
             "Position": {
                 "X": 0.0,
                 "Y": 0.0,
@@ -1050,7 +1050,7 @@
             },
             "IsGlobal": true,
             "IsActive": true,
-            "Minimized": false,
+            "Minimized": true,
             "StopsOnLastFrame": false,
             "DeactivateAfterKeyUp": false,
             "OnlyLoadOneRandomItem": false,
@@ -1065,11 +1065,11 @@
             }
         },
         {
-            "HotkeyID": "c4b5410eb50047b8aa5f6e6c8578436f",
-            "Name": "",
+            "HotkeyID": "d4aee1c2b8df41c4b6c5338b8342609a",
+            "Name": "小电视眼睛3",
             "Action": "ToggleExpression",
-            "File": "expression13.exp3.json",
-            "Folder": "",
+            "File": "小电视表情3.exp3.json",
+            "Folder": "小电视眼睛",
             "Position": {
                 "X": 0.0,
                 "Y": 0.0,
@@ -1119,7 +1119,7 @@
             },
             "IsGlobal": true,
             "IsActive": true,
-            "Minimized": false,
+            "Minimized": true,
             "StopsOnLastFrame": false,
             "DeactivateAfterKeyUp": false,
             "OnlyLoadOneRandomItem": false,
@@ -1134,11 +1134,11 @@
             }
         },
         {
-            "HotkeyID": "e1adc0e049794d97b01bc49ed738abbf",
-            "Name": "",
+            "HotkeyID": "e896dcebb99547c79bf689b2240a1397",
+            "Name": "小电视眼睛4",
             "Action": "ToggleExpression",
-            "File": "expression14.exp3.json",
-            "Folder": "",
+            "File": "小电视表情4.exp3.json",
+            "Folder": "小电视眼睛",
             "Position": {
                 "X": 0.0,
                 "Y": 0.0,
@@ -1188,7 +1188,7 @@
             },
             "IsGlobal": true,
             "IsActive": true,
-            "Minimized": false,
+            "Minimized": true,
             "StopsOnLastFrame": false,
             "DeactivateAfterKeyUp": false,
             "OnlyLoadOneRandomItem": false,
@@ -1203,11 +1203,11 @@
             }
         },
         {
-            "HotkeyID": "1f056af5c5dc4582adc14d99652bd7fe",
-            "Name": "",
+            "HotkeyID": "73c329d1239f4f4cadb1d50ff08d5765",
+            "Name": "小电视眼睛5",
             "Action": "ToggleExpression",
-            "File": "expression15.exp3.json",
-            "Folder": "",
+            "File": "小电视表情5.exp3.json",
+            "Folder": "小电视眼睛",
             "Position": {
                 "X": 0.0,
                 "Y": 0.0,
@@ -1257,7 +1257,7 @@
             },
             "IsGlobal": true,
             "IsActive": true,
-            "Minimized": false,
+            "Minimized": true,
             "StopsOnLastFrame": false,
             "DeactivateAfterKeyUp": false,
             "OnlyLoadOneRandomItem": false,
@@ -1272,11 +1272,11 @@
             }
         },
         {
-            "HotkeyID": "cdf37e880efb40d5bf23807da36b6e45",
-            "Name": "",
+            "HotkeyID": "1d033e7318484aa9a6d9a14c957b4bac",
+            "Name": "小电视眼睛6",
             "Action": "ToggleExpression",
-            "File": "expression16.exp3.json",
-            "Folder": "",
+            "File": "小电视表情6.exp3.json",
+            "Folder": "小电视眼睛",
             "Position": {
                 "X": 0.0,
                 "Y": 0.0,
@@ -1326,7 +1326,7 @@
             },
             "IsGlobal": true,
             "IsActive": true,
-            "Minimized": false,
+            "Minimized": true,
             "StopsOnLastFrame": false,
             "DeactivateAfterKeyUp": false,
             "OnlyLoadOneRandomItem": false,
@@ -1341,11 +1341,11 @@
             }
         },
         {
-            "HotkeyID": "a3581835a8fd4ca69c8e11713b72edab",
-            "Name": "",
+            "HotkeyID": "42037abe89a149b3bb6d978d964704b2",
+            "Name": "小电视眼睛7",
             "Action": "ToggleExpression",
-            "File": "expression17.exp3.json",
-            "Folder": "",
+            "File": "小电视表情7.exp3.json",
+            "Folder": "小电视眼睛",
             "Position": {
                 "X": 0.0,
                 "Y": 0.0,
@@ -1395,7 +1395,7 @@
             },
             "IsGlobal": true,
             "IsActive": true,
-            "Minimized": false,
+            "Minimized": true,
             "StopsOnLastFrame": false,
             "DeactivateAfterKeyUp": false,
             "OnlyLoadOneRandomItem": false,
@@ -1410,11 +1410,11 @@
             }
         },
         {
-            "HotkeyID": "6d01040a80194113a7449baada7ab499",
-            "Name": "",
+            "HotkeyID": "31b68b8ae0ab4833b85b37e8c7a2211e",
+            "Name": "小电视眼睛8",
             "Action": "ToggleExpression",
-            "File": "expression18.exp3.json",
-            "Folder": "",
+            "File": "小电视表情8.exp3.json",
+            "Folder": "小电视眼睛",
             "Position": {
                 "X": 0.0,
                 "Y": 0.0,
@@ -1464,7 +1464,7 @@
             },
             "IsGlobal": true,
             "IsActive": true,
-            "Minimized": false,
+            "Minimized": true,
             "StopsOnLastFrame": false,
             "DeactivateAfterKeyUp": false,
             "OnlyLoadOneRandomItem": false,
@@ -1479,11 +1479,11 @@
             }
         },
         {
-            "HotkeyID": "b4c5748dfde640c5823d65d97710dfd3",
-            "Name": "",
+            "HotkeyID": "45383836006c41b199d6f5d2ec9d0120",
+            "Name": "小电视眼睛9",
             "Action": "ToggleExpression",
-            "File": "expression19.exp3.json",
-            "Folder": "",
+            "File": "小电视表情9.exp3.json",
+            "Folder": "小电视眼睛",
             "Position": {
                 "X": 0.0,
                 "Y": 0.0,
@@ -1533,7 +1533,76 @@
             },
             "IsGlobal": true,
             "IsActive": true,
-            "Minimized": false,
+            "Minimized": true,
+            "StopsOnLastFrame": false,
+            "DeactivateAfterKeyUp": false,
+            "OnlyLoadOneRandomItem": false,
+            "DeactivateAfterSeconds": false,
+            "DeactivateAfterSecondsAmount": 10.0,
+            "FadeSecondsAmount": 0.5,
+            "OnScreenHotkeyColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            }
+        },
+        {
+            "HotkeyID": "adf90e4665e7471f8ade6b20412bd48e",
+            "Name": "小电视眼睛复原",
+            "Action": "ToggleExpression",
+            "File": "小电视表情复原.exp3.json",
+            "Folder": "小电视眼睛",
+            "Position": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "Rotation": 0.0
+            },
+            "ColorOverlay": {
+                "On": false,
+                "IsStaticColor": false,
+                "Display": -1,
+                "WindowName": "",
+                "IncludeLeft": false,
+                "IncludeMid": false,
+                "IncludeRight": false,
+                "BaseValue": 0,
+                "OverlayValue": 0,
+                "Smoothing": 0,
+                "IncludeItems": false,
+                "StaticColor": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 1.0
+                }
+            },
+            "ColorScreenMultiplyPreset": {
+                "ArtMeshMultiplyAndScreenColors": []
+            },
+            "HandGestureSettings": {
+                "GestureLeft": "",
+                "GestureRight": "",
+                "GestureCombinator": "AND",
+                "AllowMirroredGesture": false,
+                "DeactivateExpWhenGestureNotDetected": false,
+                "SecondsUntilDetection": 0.5,
+                "SecondsDetected": 0.0,
+                "PercentDetected": 0.0
+            },
+            "LoadModelSettings": {
+                "LoadAtCurrentPosition": true
+            },
+            "Triggers": {
+                "Trigger1": "LeftControl",
+                "Trigger2": "P",
+                "Trigger3": "",
+                "ScreenButton": -1
+            },
+            "IsGlobal": true,
+            "IsActive": true,
+            "Minimized": true,
             "StopsOnLastFrame": false,
             "DeactivateAfterKeyUp": false,
             "OnlyLoadOneRandomItem": false,
@@ -1566,7 +1635,28 @@
         "DraggingPhysicsMultipliersPerPhysicsGroup": []
     },
     "FolderInfo": {
-        "HotkeyFolders": [],
+        "HotkeyFolders": [
+            {
+                "Name": "嘴巴",
+                "FileCount": 2,
+                "Color": {
+                    "r": 1.0,
+                    "g": 0.988235354423523,
+                    "b": 0.9333333969116211,
+                    "a": 1.0
+                }
+            },
+            {
+                "Name": "小电视眼睛",
+                "FileCount": 10,
+                "Color": {
+                    "r": 1.0,
+                    "g": 0.988235354423523,
+                    "b": 0.9333333969116211,
+                    "a": 1.0
+                }
+            }
+        ],
         "ConfigItemFolders": []
     },
     "SavedActiveExpressions": []
