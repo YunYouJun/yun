@@ -15,6 +15,12 @@
 - [小云的偶像之路｜语雀知识库](https://www.yuque.com/yunyoujun/vtb)
 - TG 贴纸包：[小云包](https://t.me/addstickers/xiao_yun)
 
+## 📺相关视频📺
+
+- Bilibili：[云游君](https://space.bilibili.com/1579790)
+  - 直播间：[yyj.moe/live](https://yyj.moe/live)
+- [视频相关记录](./videos/README.MD)
+
 ## 人物设定
 
 > 小云人设画师：[Ai_Floverse](https://twitter.com/Ai_Floverse)
