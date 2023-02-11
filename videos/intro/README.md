@@ -53,7 +53,7 @@ Vtb 一问一答的自我介绍：（耶~）
 答：#小云二创
 
 问：粉丝称号是？
-答：云服务？！（雪露ream是不是该叫贝壳堆呢）
+答：云服务？！（~~卷积云~~）
 
 问：喜欢的颜色是？
 答：蓝色
@@ -62,7 +62,7 @@ Vtb 一问一答的自我介绍：（耶~）
 答：ACGN、和有意思的代码
 
 问：擅长的事情是？
-答：休眠、无响应
+答：休眠和无响应
 
 问：请在这里来一句爱的告白~~
 答：爪巴，不会用 git 的人类毫无魅力！
@@ -101,3 +101,4 @@ Vtb 一问一答的自我介绍：（耶~）
 
 - [【自己紹介】Vtuber一問一答自我介紹/オリジナル曲【海月シェル/新人Vtuber】| Youtube](https://youtu.be/V4L3YuhCUEY)
 - [万恶之源【自己紹介】Vtuber一問一答自我介紹/オリジナル曲【海月シェル/新人Vtuber】| Bilibili](https://www.bilibili.com/video/BV1Ry4y1j7kG/)
+- [VTuber一問一答自己紹介／VTuber一问一答自我介绍](https://www.bilibili.com/video/BV1LT4y1f7yw/)
