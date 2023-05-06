@@ -14,6 +14,7 @@
 
 - [小云的偶像之路｜语雀知识库](https://www.yuque.com/yunyoujun/vtb)
 - TG 贴纸包：[小云包](https://t.me/addstickers/xiao_yun)
+- [AIGC 小云相册](https://yunlefun.feishu.cn/drive/folder/fldcn8vG8Wd7bNXBVOrUm3iz3Pf)
 
 ## 📺相关视频📺
 
