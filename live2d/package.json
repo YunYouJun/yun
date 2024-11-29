@@ -1,0 +1,14 @@
+{
+  "name": "@yunyoujun/live2d",
+  "version": "1.0.0",
+  "description": "Yun Live2D - 小云 Live2D",
+  "keywords": [
+    "live2d",
+    "yunyoujun"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YunYouJun/yun"
+  },
+  "homepage": "https://github.com/YunYouJun/yun"
+}
