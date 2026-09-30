@@ -1,0 +1,49 @@
+{
+  "version": "xiaoyun-asset/v1",
+  "id": "xiaoyun-flat-v2",
+  "name": "小云扁平 Q 版 V2",
+  "license": "CC-BY-NC-SA-4.0",
+  "identitySource": {
+    "repository": "https://github.com/YunYouJun/yun",
+    "revision": "81b359ca3bc49eb6a0c675d3f789bc727f65436b",
+    "path": "set.md",
+    "originalCharacterArtist": "Ai_Floverse"
+  },
+  "derivation": {
+    "reference": "基于角色原设由 imagegen 生成的扁平 Q 版 V2",
+    "vector": "由用户指定的 Astra 复刻参考图得到的路径与渐变 SVG",
+    "rig": "复用 SVG 原路径的局部眼睛、嘴巴控制；闭眼、闭口线条为代码绘制；头发使用局部位移场"
+  },
+  "status": {
+    "appearance": "accepted",
+    "appearanceEvidence": "2026-09-30 用户：这次一样了",
+    "motion": "experimental",
+    "audio": "silent-mouth-beats-not-lip-sync"
+  },
+  "size": [
+    1144,
+    1375
+  ],
+  "files": {
+    "yun-flat-v2.svg": {
+      "sha256": "30864979172e0315126f79f9e32d11f86865a1db495333d374ad11cfc868d348",
+      "bytes": 7217939
+    },
+    "yun-alpha-flat-v2.png": {
+      "sha256": "43c0d75a15d9f8e0d90260aae35c1ecfc8c91994e84e7ea4944031d3c148d3d5",
+      "bytes": 983727
+    },
+    "rig.json": {
+      "sha256": "a7b71a10d924a3e9a5264e004fdfe7ec5396e07493327d28f17d9e0ebce9eee5",
+      "bytes": 29157
+    }
+  },
+  "motions": [
+    "motions/face-v2.json"
+  ],
+  "limitations": [
+    "SVG 为高保真描摹，仍包含 16367 条路径；未简化几何",
+    "局部脸部控制与头发位移场，不是全身骨骼",
+    "静音口型节奏，不是配音或音素同步"
+  ]
+}

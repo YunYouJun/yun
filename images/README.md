@@ -14,6 +14,10 @@
 
 如希望对表情包附加说明和作者信息，可在 [`images/meme/README.md`](./meme/README.md) 中添加描述。
 
+## 扁平 Q 版与动画素材
+
+[`chibi/flat-v2`](./chibi/flat-v2/README.md) 保存作者认可的扁平 Q 版 V2 参考 PNG、SVG 主文件及来源清单，并提供试验中的眨眼、口型与轻晃动作预设。Codex 可调整动作 JSON，通过 Studio 的轻量预览入口观看与微调。
+
 ## 无发卡立绘
 
 [`yun-no-hairpin.png`](./yun-no-hairpin.png) 是基于 `yun-alpha.png` 生成的无发卡 AI 衍生参考图，使用白色背景，不含透明通道。正式分层素材与项目发卡的制作要求见[人物设定](../set.md#无发卡版本与项目发卡)。

@@ -1,0 +1,360 @@
+{
+  "version": "xiaoyun-motion/v1",
+  "asset": {
+    "id": "xiaoyun-flat-v2",
+    "sha256": "30864979172e0315126f79f9e32d11f86865a1db495333d374ad11cfc868d348"
+  },
+  "name": "轻晃、眨眼与说话",
+  "intent": "轻晃逐步收住；发尾延迟跟随；三次快合慢开的眨眼和两段静音口型。",
+  "duration": 9,
+  "speed": 1,
+  "sway": {
+    "enabled": true,
+    "intensity": 1,
+    "ease": "sine.inOut",
+    "poses": [
+      {
+        "at": 0.7,
+        "duration": 0.3,
+        "rotation": -1.4,
+        "x": -3,
+        "y": 0,
+        "scaleX": 1.012,
+        "scaleY": 0.988
+      },
+      {
+        "at": 1.1,
+        "duration": 0.58,
+        "rotation": 4.8,
+        "x": 12,
+        "y": -2,
+        "scaleX": 0.998,
+        "scaleY": 1.002
+      },
+      {
+        "at": 1.94,
+        "duration": 0.68,
+        "rotation": -4.2,
+        "x": -8,
+        "y": -1,
+        "scaleX": 1,
+        "scaleY": 1
+      },
+      {
+        "at": 2.9,
+        "duration": 0.58,
+        "rotation": 3.1,
+        "x": 8,
+        "y": -1,
+        "scaleX": 1,
+        "scaleY": 1
+      },
+      {
+        "at": 3.72,
+        "duration": 0.48,
+        "rotation": -2,
+        "x": -4,
+        "y": 0,
+        "scaleX": 1,
+        "scaleY": 1
+      },
+      {
+        "at": 4.42,
+        "duration": 0.41,
+        "rotation": 1.05,
+        "x": 2,
+        "y": 0,
+        "scaleX": 1,
+        "scaleY": 1
+      },
+      {
+        "at": 5,
+        "duration": 0.38,
+        "rotation": -0.45,
+        "x": -1,
+        "y": 0,
+        "scaleX": 1,
+        "scaleY": 1
+      },
+      {
+        "at": 5.58,
+        "duration": 0.44,
+        "rotation": 0,
+        "x": 0,
+        "y": 0,
+        "scaleX": 1,
+        "scaleY": 1
+      }
+    ]
+  },
+  "hair": {
+    "enabled": true,
+    "intensity": 1,
+    "ease": "sine.inOut",
+    "stops": [
+      {
+        "at": 0.76,
+        "duration": 0.199,
+        "scale": -5
+      },
+      {
+        "at": 0.96,
+        "duration": 0.139,
+        "scale": 0
+      },
+      {
+        "at": 1.12,
+        "duration": 0.319,
+        "scale": 22
+      },
+      {
+        "at": 1.44,
+        "duration": 0.449,
+        "scale": -16
+      },
+      {
+        "at": 1.89,
+        "duration": 0.159,
+        "scale": 0
+      },
+      {
+        "at": 2.05,
+        "duration": 0.319,
+        "scale": -25
+      },
+      {
+        "at": 2.37,
+        "duration": 0.459,
+        "scale": 18
+      },
+      {
+        "at": 2.83,
+        "duration": 0.159,
+        "scale": 0
+      },
+      {
+        "at": 3,
+        "duration": 0.269,
+        "scale": 18
+      },
+      {
+        "at": 3.27,
+        "duration": 0.399,
+        "scale": -13
+      },
+      {
+        "at": 3.67,
+        "duration": 0.149,
+        "scale": 0
+      },
+      {
+        "at": 3.83,
+        "duration": 0.219,
+        "scale": -13
+      },
+      {
+        "at": 4.05,
+        "duration": 0.359,
+        "scale": 9
+      },
+      {
+        "at": 4.41,
+        "duration": 0.129,
+        "scale": 0
+      },
+      {
+        "at": 4.54,
+        "duration": 0.179,
+        "scale": 7
+      },
+      {
+        "at": 4.72,
+        "duration": 0.319,
+        "scale": -5
+      },
+      {
+        "at": 5.04,
+        "duration": 0.119,
+        "scale": 0
+      },
+      {
+        "at": 5.16,
+        "duration": 0.159,
+        "scale": -3.5
+      },
+      {
+        "at": 5.32,
+        "duration": 0.289,
+        "scale": 2.5
+      },
+      {
+        "at": 5.61,
+        "duration": 0.119,
+        "scale": 0
+      },
+      {
+        "at": 5.73,
+        "duration": 0.159,
+        "scale": 1.8
+      },
+      {
+        "at": 5.89,
+        "duration": 0.309,
+        "scale": -1.2
+      },
+      {
+        "at": 6.2,
+        "duration": 0.149,
+        "scale": 0.5
+      },
+      {
+        "at": 6.35,
+        "duration": 0.329,
+        "scale": 0
+      }
+    ]
+  },
+  "blink": {
+    "enabled": true,
+    "times": [
+      0.98,
+      3,
+      6.43
+    ],
+    "close": 0.075,
+    "hold": 0.058,
+    "open": 0.142,
+    "rightDelay": 0.008,
+    "closeEase": "power2.in",
+    "openEase": "power2.out"
+  },
+  "mouth": {
+    "enabled": true,
+    "ease": "sine.inOut",
+    "windows": [
+      {
+        "start": 1.35,
+        "end": 2.58
+      },
+      {
+        "start": 3.28,
+        "end": 5.05
+      }
+    ],
+    "stops": [
+      {
+        "at": 1.35,
+        "duration": 0.09,
+        "scaleX": 0.68,
+        "scaleY": 0.85
+      },
+      {
+        "at": 1.51,
+        "duration": 0.09,
+        "scaleX": 1,
+        "scaleY": 1.1
+      },
+      {
+        "at": 1.7,
+        "duration": 0.07,
+        "scaleX": 1.04,
+        "scaleY": 0.38
+      },
+      {
+        "at": 1.86,
+        "duration": 0.1,
+        "scaleX": 0.67,
+        "scaleY": 1.06
+      },
+      {
+        "at": 2.06,
+        "duration": 0.09,
+        "scaleX": 1,
+        "scaleY": 0.9
+      },
+      {
+        "at": 2.25,
+        "duration": 0.075,
+        "scaleX": 1.04,
+        "scaleY": 0.16
+      },
+      {
+        "at": 2.43,
+        "duration": 0.13,
+        "scaleX": 1,
+        "scaleY": 1
+      },
+      {
+        "at": 3.28,
+        "duration": 0.085,
+        "scaleX": 0.68,
+        "scaleY": 0.8
+      },
+      {
+        "at": 3.43,
+        "duration": 0.095,
+        "scaleX": 1,
+        "scaleY": 1.13
+      },
+      {
+        "at": 3.62,
+        "duration": 0.075,
+        "scaleX": 1.04,
+        "scaleY": 0.32
+      },
+      {
+        "at": 3.78,
+        "duration": 0.1,
+        "scaleX": 0.7,
+        "scaleY": 1.1
+      },
+      {
+        "at": 3.99,
+        "duration": 0.095,
+        "scaleX": 1,
+        "scaleY": 0.95
+      },
+      {
+        "at": 4.19,
+        "duration": 0.075,
+        "scaleX": 1.04,
+        "scaleY": 0.35
+      },
+      {
+        "at": 4.36,
+        "duration": 0.095,
+        "scaleX": 0.67,
+        "scaleY": 0.96
+      },
+      {
+        "at": 4.54,
+        "duration": 0.09,
+        "scaleX": 1,
+        "scaleY": 1
+      },
+      {
+        "at": 4.73,
+        "duration": 0.07,
+        "scaleX": 1.02,
+        "scaleY": 0.16
+      },
+      {
+        "at": 4.9,
+        "duration": 0.13,
+        "scaleX": 1,
+        "scaleY": 1
+      }
+    ],
+    "closed": [
+      {
+        "start": 2.295,
+        "end": 2.43
+      },
+      {
+        "start": 4.775,
+        "end": 4.9
+      }
+    ],
+    "audioAlignment": false
+  }
+}
