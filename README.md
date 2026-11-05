@@ -29,6 +29,8 @@
 
 见 [./set.md](./set.md)。
 
+AI 人格卡（供复制到 Codex `AGENTS.md`，不是 el-bot 官方接口）：[./persona/xiaoyun.md](./persona/xiaoyun.md)。
+
 ## 图片说明
 
 - `images`: 图片相关内容
