@@ -31,6 +31,18 @@
 
 AI 人格卡（供复制到 Codex `AGENTS.md`，不是 el-bot 官方接口）：[./persona/xiaoyun.md](./persona/xiaoyun.md)。
 
+## 动效吉祥物
+
+[`mascot/`](./mascot) 提供了一个框架无关的吉祥物动效实现：眼睛沿虚拟球面转动，跟随鼠标时会产生近大远小、弹簧滞后和轻微甩动；默认 preset 为小云云朵。
+
+它支持原生 DOM 与可选 Vue 组件，包含表情、眨眼、主题、`prefers-reduced-motion` 和自定义 rig。
+
+```bash
+cd mascot
+pnpm install
+pnpm demo
+```
+
 ## 图片说明
 
 - `images`: 图片相关内容
