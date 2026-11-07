@@ -21,3 +21,7 @@
 ## 无发卡立绘
 
 [`yun-no-hairpin.png`](./yun-no-hairpin.png) 是基于 `yun-alpha.png` 生成的无发卡 AI 衍生参考图，使用白色背景，不含透明通道。正式分层素材与项目发卡的制作要求见[人物设定](../set.md#无发卡版本与项目发卡)。
+
+## 粗糙数字涂鸦
+
+[`rough-doodle`](./rough-doodle/README.md) 保存基于原立绘生成的日系粗糙数字涂鸦 AI 衍生图。发卡使用 el-bot 小云云朵 logo 的白色发饰版本，目录内附基础风格、发卡替换和白色云朵调整的完整参考提示词。
